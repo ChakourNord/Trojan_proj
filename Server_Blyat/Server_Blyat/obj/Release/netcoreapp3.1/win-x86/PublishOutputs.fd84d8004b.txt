@@ -1,0 +1,2 @@
+D:\Users\chako\Documents\Schule\SWE\Server_Blyat\Server_Blyat\bin\Release\netcoreapp3.1\publish\win-x86\Server_Blyat.pdb
+D:\Users\chako\Documents\Schule\SWE\Server_Blyat\Server_Blyat\bin\Release\netcoreapp3.1\publish\win-x86\Server_Blyat.exe

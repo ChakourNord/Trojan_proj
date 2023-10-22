@@ -1,0 +1,5 @@
+D:\Users\chako\Desktop\prog re\client.exe
+D:\Users\chako\Desktop\prog re\client.dll
+D:\Users\chako\Desktop\prog re\client.deps.json
+D:\Users\chako\Desktop\prog re\client.runtimeconfig.json
+D:\Users\chako\Desktop\prog re\client.pdb

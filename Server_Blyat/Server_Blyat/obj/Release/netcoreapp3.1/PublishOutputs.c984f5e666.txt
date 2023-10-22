@@ -1,0 +1,5 @@
+D:\Users\chako\Documents\Schule\SWE\Server_Blyat\Server_Blyat\bin\Release\netcoreapp3.1\publish\Server_Blyat.exe
+D:\Users\chako\Documents\Schule\SWE\Server_Blyat\Server_Blyat\bin\Release\netcoreapp3.1\publish\Server_Blyat.dll
+D:\Users\chako\Documents\Schule\SWE\Server_Blyat\Server_Blyat\bin\Release\netcoreapp3.1\publish\Server_Blyat.deps.json
+D:\Users\chako\Documents\Schule\SWE\Server_Blyat\Server_Blyat\bin\Release\netcoreapp3.1\publish\Server_Blyat.runtimeconfig.json
+D:\Users\chako\Documents\Schule\SWE\Server_Blyat\Server_Blyat\bin\Release\netcoreapp3.1\publish\Server_Blyat.pdb

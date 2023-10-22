@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "t6BIfWuS1FosARwiFq7lwghCh1zpfOsi9QBxbuSuZXkmNrGFI3KNfhUzvVZJVGncnVi8ewl7FeTsAQ+YuUfjYw==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\chako\\Desktop\\Server_Blyat\\Server_Blyat\\Server_Blyat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chako\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\chako\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512",
+    "C:\\Users\\chako\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
