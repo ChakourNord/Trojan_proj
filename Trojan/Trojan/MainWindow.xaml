@@ -6,7 +6,18 @@
         xmlns:local="clr-namespace:Trojan"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
+   
+    <Grid> 
+        <Grid.ColumnDefinitions>
+        <ColumnDefinition Width="1*" />
+        <ColumnDefinition Width="1*" />
+        <ColumnDefinition Width="1*" />
+    </Grid.ColumnDefinitions>
+        <TextBlock Height="30px" Text="fhfhdskj" Background="Black"/>
+        <TextBox Height="30px" Grid.Column="1" Background="Aqua"/>
 
+
+
+        <Button Height="29" VerticalAlignment="Top" Margin="10,395,133,0" Grid.Column="1" />
     </Grid>
 </Window>
