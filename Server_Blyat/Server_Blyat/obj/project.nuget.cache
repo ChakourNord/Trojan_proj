@@ -1,12 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "t6BIfWuS1FosARwiFq7lwghCh1zpfOsi9QBxbuSuZXkmNrGFI3KNfhUzvVZJVGncnVi8ewl7FeTsAQ+YuUfjYw==",
+  "dgSpecHash": "N65BAFSzxXC2xocPiNvsVNWul4/lqSo5n3WWOASIlR4L6uLigfe/3ICX2UauYmqYaze7BhKGTMoyDwFzNhq/Aw==",
   "success": true,
-  "projectFilePath": "D:\\Users\\chako\\Desktop\\Server_Blyat\\Server_Blyat\\Server_Blyat.csproj",
+  "projectFilePath": "D:\\Users\\chako\\Documents\\Schule\\SWE\\Trojan\\Server_Blyat\\Server_Blyat\\Server_Blyat.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\chako\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\chako\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512",
-    "C:\\Users\\chako\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+    "C:\\Users\\chako\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\chako\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\chako\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\chako\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
   ],
   "logs": []
 }
